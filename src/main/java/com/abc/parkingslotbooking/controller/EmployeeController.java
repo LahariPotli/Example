@@ -1,4 +1,4 @@
-/*package com.abc.parkingslotbooking.controller;
+package com.abc.parkingslotbooking.controller;
 
 import javax.validation.Valid;
 
@@ -27,4 +27,4 @@ public class EmployeeController {
 	
 	
 
-}*/
+}
